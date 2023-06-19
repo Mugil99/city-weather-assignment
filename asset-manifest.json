@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/city-weather-assignment/static/css/main.a9b965db.css",
+    "main.js": "/city-weather-assignment/static/js/main.f0934592.js",
+    "static/js/787.363a965f.chunk.js": "/city-weather-assignment/static/js/787.363a965f.chunk.js",
+    "static/media/logo.svg": "/city-weather-assignment/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/city-weather-assignment/index.html",
+    "main.a9b965db.css.map": "/city-weather-assignment/static/css/main.a9b965db.css.map",
+    "main.f0934592.js.map": "/city-weather-assignment/static/js/main.f0934592.js.map",
+    "787.363a965f.chunk.js.map": "/city-weather-assignment/static/js/787.363a965f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9b965db.css",
+    "static/js/main.f0934592.js"
+  ]
+}
